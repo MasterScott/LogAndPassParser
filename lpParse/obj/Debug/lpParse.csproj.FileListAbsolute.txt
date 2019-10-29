@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\lpParse\lpParse\bin\Debug\lpParse.exe.config
+C:\Users\Asus\source\repos\lpParse\lpParse\bin\Debug\lpParse.exe
+C:\Users\Asus\source\repos\lpParse\lpParse\bin\Debug\lpParse.pdb
+C:\Users\Asus\source\repos\lpParse\lpParse\bin\Debug\MaterialSkin.dll
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.Form1.resources
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.Properties.Resources.resources
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.csproj.CopyComplete
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.exe
+C:\Users\Asus\source\repos\lpParse\lpParse\obj\Debug\lpParse.pdb
+C:\Users\Asus\source\repos\lpParse\lpParse\bin\Debug\Ionic.Zip.dll
+C:\Users\Asus\source\repos\lpParse\lpParse\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\source\repos\lpParse\lpParse\bin\Debug\NUnrar.dll
